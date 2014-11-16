@@ -13,6 +13,7 @@
 		97809DC11A1696220060CFF0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97809DC01A1696220060CFF0 /* Images.xcassets */; };
 		97809DC41A1696220060CFF0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 97809DC21A1696220060CFF0 /* LaunchScreen.xib */; };
 		97809DD01A1696220060CFF0 /* WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97809DCF1A1696220060CFF0 /* WeatherTests.swift */; };
+		97809DDA1A1697770060CFF0 /* weather.png in Resources */ = {isa = PBXBuildFile; fileRef = 97809DD91A1697770060CFF0 /* weather.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		97809DC91A1696220060CFF0 /* WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97809DCE1A1696220060CFF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97809DCF1A1696220060CFF0 /* WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherTests.swift; sourceTree = "<group>"; };
+		97809DD91A1697770060CFF0 /* weather.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = weather.png; path = ../../../Desktop/weather.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				97809DB91A1696220060CFF0 /* AppDelegate.swift */,
 				97809DBB1A1696220060CFF0 /* ViewController.swift */,
 				97809DBD1A1696220060CFF0 /* Main.storyboard */,
+				97809DD91A1697770060CFF0 /* weather.png */,
 				97809DC01A1696220060CFF0 /* Images.xcassets */,
 				97809DC21A1696220060CFF0 /* LaunchScreen.xib */,
 				97809DB71A1696220060CFF0 /* Supporting Files */,
@@ -194,6 +197,7 @@
 			files = (
 				97809DBF1A1696220060CFF0 /* Main.storyboard in Resources */,
 				97809DC41A1696220060CFF0 /* LaunchScreen.xib in Resources */,
+				97809DDA1A1697770060CFF0 /* weather.png in Resources */,
 				97809DC11A1696220060CFF0 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
